@@ -135,3 +135,12 @@ form {
   font-size: 48px;
   
 }
+
+@media screen and (max-width: 720px){
+
+  .mainCard {
+    width: 60%;
+  }
+
+  
+}
